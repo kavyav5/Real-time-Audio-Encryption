@@ -1,5 +1,4 @@
 # Real-time-Audio-Encryption 
-This project was for the Governor's School of Engineering and Technology. 
 
 **Keywords:**
 Audio Signal Processing; Encryption; Chaos Theory; Real-time Systems
